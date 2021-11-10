@@ -3547,7 +3547,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _dom
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"onAddClick\": () => (/* binding */ onAddClick)\n/* harmony export */ });\nfunction onAddClick(event) {\n  // $('#addModal').modal('show');\n  document.querySelector('#addModal').style.display = 'block';\n}\n\n//# sourceURL=webpack://my-webpack-project/./src/scripts/listeners/addClick.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"onAddClick\": () => (/* binding */ onAddClick)\n/* harmony export */ });\nfunction onAddClick(event) {\n  document.querySelector('#addModal').style.display = 'block';\n}\n\n//# sourceURL=webpack://my-webpack-project/./src/scripts/listeners/addClick.js?");
 
 /***/ }),
 
